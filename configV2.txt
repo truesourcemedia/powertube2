@@ -497,7 +497,7 @@
          "proFeature":[
             {
                "id":"pro_feature_rule",
-               "enabled":true,
+               "enabled":false,
                "matchMode":"and",
                "targeting":{
                   "countries":{
